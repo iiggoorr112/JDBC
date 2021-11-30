@@ -16,7 +16,7 @@ public class Conect {
         System.out.println("Indtast password: ");
         password = input.nextLine();
 
-   Login login= new Login("Diva",123);
+   Login login= new Login("Diva",12322555);
 
     }
 
